@@ -1,0 +1,90 @@
+body {
+	background-image: url("/assets/images/landing_page_background.png");
+	width:100%;
+	height:748px;
+	background-repeat:no-repeat;
+	background-position:center; 
+	padding-top: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.center
+{
+margin-left:auto;
+margin-right:auto;
+width:1024px;
+
+}
+
+.header
+{
+	background-image: url("/assets/images/landing_page_tab.png");
+	width:1024px;
+	height:72px;
+/* 	float:center; */
+}
+
+.content
+{
+	background-image: url("/assets/images/landing_page_frame.png");
+	width:620px;
+	height:641px;
+	margin-top:5px;
+	background-repeat:no-repeat;
+	background-position:left;
+	float:left;
+/* 	padding-top:50px; */
+}
+
+.profile-img
+{
+	background-image: url("/assets/images/landing_page_profile_frame.png");
+	width:100px;
+	height:555px;
+	margin-top:40px;
+	margin-left:50px;
+	background-repeat:no-repeat;
+	float:left;
+	/* background-position:left; */
+}
+
+.user-contents
+{
+	width: 420px;
+	height:130px;
+	float:left;
+	margin-top:40px; 
+	padding-left: 5px;
+}
+
+.user-activity
+{
+	height:42px;
+	/* float:left; */
+}
+
+.time
+{
+	height:17px;
+	/* float:left; */
+}
+
+.activity-status
+{
+	background-image: url("/assets/images/landing_page_frame_input.png");
+	width:100%;
+	height:46px;
+	margin-top:1px;
+	background-repeat:no-repeat;
+	background-position:left;
+	float:left;
+}
+
+.user-image
+{
+	background-image: url("/assets/images/landing_page_image.png");
+	width:410px;
+	height:425px;
+	float:left;
+}
